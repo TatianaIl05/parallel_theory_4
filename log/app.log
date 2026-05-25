@@ -1,0 +1,7 @@
+2026-05-25 16:52:53,678 - __main__ - INFO - Command line arguments: camera=999, resolution=1280x720, fps=30.0
+2026-05-25 16:52:53,678 - __main__ - INFO - Requested resolution: 1280x720
+2026-05-25 16:52:53,678 - __main__ - INFO - Initializing camera
+2026-05-25 16:52:53,679 - __main__ - ERROR - Failed to initialize camera: Camera '999' not found or cannot be opened
+2026-05-25 16:52:53,679 - __main__ - INFO - Camera '999' released
+2026-05-25 16:52:53,679 - __main__ - CRITICAL - Cannot initialize camera: Camera '999' not found or cannot be opened. Program terminated.
+2026-05-25 16:52:53,679 - __main__ - INFO - Camera '999' released
